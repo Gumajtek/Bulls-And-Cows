@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Bulls_n_Cows.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  FBullCowGame.cpp
+d:\ceplusplusowanko\bulls_n_cows\bulls_n_cows\fbullcowgame.cpp(37): warning C4715: "FBullCowGame::IsLowerCase”: niewszystkie ścieżki kodu zwracają wartość
+d:\ceplusplusowanko\bulls_n_cows\bulls_n_cows\fbullcowgame.cpp(48): warning C4715: "FBullCowGame::IsIsogram”: niewszystkie ścieżki kodu zwracają wartość
+  Bulls_n_Cows.vcxproj -> D:\Ceplusplusowanko\Bulls_n_Cows\Debug\main.exe
